@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/BabyDogeCoin",
   "VITE_SEO_SITE_NAME": "BabyDoge Perps",
   "VITE_SEO_SITE_DESCRIPTION": "The",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/babydoge-1786/",
+  "VITE_SEO_SITE_URL": "https://perps.babydoge.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@BabyDogeCoin",
